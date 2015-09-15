@@ -23,7 +23,7 @@ class Loader extends PluginBase{
                 "message5",
                 "message6"
             ),
-            "seconds" => "30",
+            "seconds" => 30,
             "prefix" => "[LegoBroadcast]",
         )
 		);
