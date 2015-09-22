@@ -1,0 +1,9 @@
+---
+name: NoDeath
+main: Legoboy\NoDeath\Loader
+version: "1.001"
+api:
+- 1.12.0
+author: Legoboy
+description: Die the 21st century way!
+...

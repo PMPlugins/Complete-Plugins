@@ -1,0 +1,6 @@
+---
+death-drop-item: true
+clear-inv-after-death: true
+health-after-death: 20
+death-player-message: You respawned without pressing the respawn button!
+...
