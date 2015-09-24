@@ -1,0 +1,12 @@
+name: TNTParticle
+main: Legoboy\TNT\Loader
+version: "1.0.0"
+api: [1.12.0]
+author: PMPlugins
+description: Spawn a PrimedTNT!
+
+commands:
+ tnt:
+  description: Spawn!
+  usage: "/tnt <spawn>"
+  permission: tnt.spawn
